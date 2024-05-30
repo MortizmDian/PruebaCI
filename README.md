@@ -68,4 +68,4 @@ For this workshop you need the following:
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
 
--esto es prueba para dispararlo de guandispare de una
+-esto es prueba para dispararlo de guandispare de una pero no corrio solo
